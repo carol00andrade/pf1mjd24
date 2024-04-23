@@ -1,0 +1,8 @@
+Este é o projeto final do Master em Jornalismo de Dados, Automação e Datastorytelling do Insper.
+A ideia desse projeto surgiu porque acompanho há muitos anos a cobertura das notícias sobre violência contra as mulheres e queria entender um pouco mais sobre o viés que está implicado nessa cobertura. Quem são as mulheres que são noticiadas pela imprensa?
+Para poder fazer isso em larga escala, apenas criando uma ferramenta. Essa ferramenta precisaria ser uma ferramenta que pudesse coletar diversas notícias e depois disso criar uma categorização dessas notícias.
+Então a alternativa que eu pensei foi criar um raspador e depois com as informações dele fazer uma categorização das notícias.
+Encontrei algumas dificuldades na hora de fazer a raspagem. Os sites têm lógicas bastante diferentes e nesta etapa escolhi uma pequena amostra em que conseguisse fazer uma verificação manual para validar o projeto.
+Algumas partes do código precisaram ser ajustadas para lidar com a estrutura variável das páginas de notícias, e sei que ainda precisa de muitas melhoras!
+Para categorizar foi um desafio ainda maior. Lidar com a minha expectativa do que era esperado nas notícias, e o que realmente era coberto foi importante para ajustar o código
+Apesar dos desafios, foi uma experiência valiosa e estou animada para continuar explorando esse tema e refinando minha ferramenta. 
